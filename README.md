@@ -9,9 +9,9 @@ PyCity Schools executed standardized testing of the students at all high schools
 ### District Summary
 
 - Original 
-![Original Results](C:\Users\z0029b0\msu\Classwork\School_District_Analysis\Resources\OriginalDistrictSummary.png)
+![Original Results](https://github.com/PGrickswim/School_District_Analysis/blob/main/Resources/OriginalDistrictSummary.png)
 - Updated
-![Updated Results](C:\Users\z0029b0\msu\Classwork\School_District_Analysis\Resources\UpdatedDistrictSummary.png)
+![Updated Results](https://github.com/PGrickswim/School_District_Analysis/blob/main/Resources/UpdatedDistrictSummary.png)
 
 
 
