@@ -24,8 +24,8 @@ Note that the number of schools, students, and budget did not change with remova
 Write up here
 
 - Orginal
-
+![Original Results](https://github.com/PGrickswim/School_District_Analysis/blob/main/Resources/OriginalSchoolSummary.png)
 
 -Updated
-
+![Updated Results](https://github.com/PGrickswim/School_District_Analysis/blob/main/Resources/UpdatedSchoolSUmmary.png)
 
